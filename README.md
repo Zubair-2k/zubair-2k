@@ -152,11 +152,9 @@ My focus is on building performant React applications, creating reusable compone
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=About.me&logoColor=white)](https://zubair-2k.github.io/zubair-exe/)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zubair2kdeveloper@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zubair-2k)
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=About.me&logoColor=white)](https://zubair-2k.github.io/zubair-exe/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zubair2kdeveloper@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zubair-2k)
 
 ---
 
