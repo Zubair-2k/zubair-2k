@@ -4,10 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Frontend+Developer;React.js+Developer;Building+Interactive+Web+Applications" />
 </h3>
 
-<p align="center">
-  Frontend Developer skilled in React.js, JavaScript, GSAP, and responsive UI development.
-  Building interactive web applications with REST API integration and performance optimization.
-</p>
+> Frontend Developer skilled in React.js, JavaScript, GSAP, and responsive UI development.
+>
+> Building interactive web applications with REST API integration and performance optimization.
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-green?style=flat-square)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -63,6 +62,8 @@ My focus is on building performant React applications, creating reusable compone
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
 
 ## ⚡ CORE STRENGTHS
 
