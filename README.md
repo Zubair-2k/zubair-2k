@@ -1,20 +1,8 @@
-<h1 align="center">Hi 👋, I'm ZUBAIR A</h1>
+<h1>Hi 👋, I'm ZUBAIR A</h1>
 
-<h3 align="center">
+<h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Frontend+Developer;React.js+Developer;Building+Interactive+Web+Applications" />
 </h3>
-
-<p align="center">
-Frontend Developer skilled in React.js, JavaScript, GSAP, and responsive UI development.<br>
-Building interactive web applications with REST API integration and performance optimization.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
 
 > Frontend Developer skilled in React.js, JavaScript, GSAP, and responsive UI development.
 >
