@@ -97,25 +97,17 @@ Building interactive web applications with REST API integration and performance 
 🎨 Interactive Animations & User Experience  
 🐞 Debugging & Problem Solving
 
-### 📌 Additional Skills
-
-Responsive Design • REST API Integration • UI Development • Front-End Architecture • Web Performance Optimization • Debugging
-
 ---
 
 ## 💼 Professional Experience
 
-### Frontend Developer | Tringapps Private Ltd.
-**Dec 2021 – May 2023**
+**Frontend Developer — Tringapps Private Ltd.** *(Dec 2021 – May 2023)*
 
-- Developed a React.js-based recruitment platform with secure authentication and MCQ assessment system.
-- Built reusable and responsive UI components with real-time response tracking.
-- Reduced development redundancy by **25%** through component reusability.
-- Optimized frontend architecture and Webpack configuration.
-- Improved bundle efficiency by **20%**.
-- Collaborated with cross-functional teams to deliver end-to-end features.
-- Maintained code quality through debugging and structured code reviews.
-
+- Developed a **React.js recruitment platform** with secure authentication and MCQ assessment system
+- Built reusable responsive UI components with real-time response tracking — reduced redundancy by **25%**
+- Optimized Webpack build pipeline — improved bundle efficiency by **20%**
+- Collaborated with cross-functional teams on end-to-end delivery, debugging, and code reviews
+  
 ---
 
 ## 🚀 Projects
@@ -237,6 +229,20 @@ Responsive Design • REST API Integration • UI Development • Front-End Arch
 </p>
 
 ---
+
+## 💼 Professional Experience
+
+### Frontend Developer | Tringapps Private Ltd.
+**Dec 2021 – May 2023**
+
+- Developed a React.js-based recruitment platform with secure authentication and MCQ assessment system.
+- Built reusable and responsive UI components with real-time response tracking.
+- Reduced development redundancy by **25%** through component reusability.
+- Optimized frontend architecture and Webpack configuration.
+- Improved bundle efficiency by **20%**.
+- Collaborated with cross-functional teams to deliver end-to-end features.
+- Maintained code quality through debugging and structured code reviews.
+
 
 ## 💼 Experience
 
