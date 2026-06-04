@@ -15,6 +15,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,vite,webpack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge" />
+</p>
+
+<p align="center">
   <a href="mailto:zubair2kdeveloper@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
