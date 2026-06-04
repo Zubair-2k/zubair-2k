@@ -14,7 +14,7 @@
 
 ---
 
-### 🎯 Current Focus
+## 🎯 CURRENT FOCUS
 
 - React.js & modern JavaScript
 - Frontend performance optimization
