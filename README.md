@@ -13,6 +13,10 @@
 
 ---
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,js,html,css,redux,git,github,webpack,vscode,python" />
+</p>
+
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
