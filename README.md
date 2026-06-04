@@ -13,6 +13,11 @@
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,js,gsap" />
+</p>
+
 ---
 
 ## 💡 What Drives Me
@@ -33,10 +38,6 @@ My focus is on building performant React applications, creating reusable compone
 ---
 
 ## 🛠️ TECH STACK
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,html,css,redux,git,github,webpack,vscode,python" />
-</p>
 
 ### Frontend
 
