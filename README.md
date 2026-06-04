@@ -75,12 +75,6 @@ My focus is on building performant React applications, creating reusable compone
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-- Git
-- GitHub
-- Webpack
-- Render
-- VS Code
-
 ## ⚡ Core Strengths
 
 🖥️ Responsive UI Development  
