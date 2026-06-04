@@ -8,6 +8,14 @@
 >
 > Building interactive web applications with REST API integration and performance optimization.
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-green?style=flat-square" />
+</p>
+
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-green?style=flat-square)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
