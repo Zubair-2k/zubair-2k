@@ -105,11 +105,11 @@
 
 | Project | Description | Live |
 |---------|-------------|------|
-| **Interactive Portfolio** | React + GSAP scroll animations, ~1MB asset size | [🔗 Live](...) |
-| **Scroll Animation Landing Page** | GSAP ScrollTrigger, zero-lag scroll sync | [🔗 Live](...) |
-| **Cooking Recipe App** | 4,000+ records, RESTful API, Render + GitHub Pages deploy | [🔗 Live](...) |
-| **Spider-Man Parallax Website** | Layered GSAP parallax animations, depth & storytelling | [🔗 Live](...) |
-| **Personal Portfolio v1** | First portfolio, iterative UI/UX foundation | [🔗 Live](...) |
+| **Interactive Portfolio** | React + GSAP scroll animations, ~1MB asset size | [🔗 Live](https://zubair-2k.github.io/zubair-exe/) |
+| **Scroll Animation Landing Page** | GSAP ScrollTrigger, zero-lag scroll sync | [🔗 Live](https://zubair-2k.github.io/GSAP_Crimson/) |
+| **Cooking Recipe App** | 4,000+ records, RESTful API, Render + GitHub Pages deploy | [🔗 Live](https://zubair-2k.github.io/Cooking-App/) |
+| **Spider-Man Parallax Website** | Layered GSAP parallax animations, depth & storytelling | [🔗 Live](https://zubair-2k.github.io/Spiderman_Game/) |
+| **Personal Portfolio v1** | First portfolio, iterative UI/UX foundation | [🔗 Live](https://zubair-2k.github.io/Portfolio/) |
 
 ---
 
