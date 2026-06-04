@@ -70,7 +70,14 @@
 
 ## 📊 GitHub Stats
 
-![Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubair-2k&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zubair-2k&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubair-2k&layout=compact&theme=tokyonight" />
+</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubair-2k&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
