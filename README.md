@@ -67,6 +67,13 @@ Building interactive web applications with REST API integration and performance 
 - Redux
 - GSAP
 
+## 🔗 API & Data
+
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Fetch API](https://img.shields.io/badge/Fetch_API-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
