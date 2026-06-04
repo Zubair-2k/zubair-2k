@@ -95,15 +95,6 @@
   <img src="https://streak-stats.demolab.com?user=zubair-2k&theme=tokyonight&hide_border=true" width="600"/>
 </div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zubair-2k&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubair-2k&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zubair-2k&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 🤝 Connect With Me
