@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zubair A</h1>
 
 <h3 align="center">
-Frontend Developer | React.js Developer | Building Fast & Interactive Web Experiences
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Frontend+Developer;React.js+Developer;GSAP+Animation+Enthusiast;Building+Interactive+Web+Applications;Performance+Focused+Developer" />
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Frontend+Developer;React.js+Developer;GSAP+Animation+Enthusiast;Building+Interactive+Web+Applications;Performance+Focused+Developer" />
-</p>
+> Frontend Developer skilled in React.js, JavaScript, GSAP, and responsive UI development.
+> Building interactive web applications with REST API integration and performance optimization.
 
 <p align="center">
   <a href="mailto:zubair2kdeveloper@gmail.com">
