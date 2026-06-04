@@ -13,15 +13,8 @@
 > Building interactive web applications with REST API integration and performance optimization.
 
 <p align="center">
-
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-green?style=flat-square)
-
+  <img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge" />
 </p>
-
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-green?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
