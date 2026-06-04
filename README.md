@@ -13,19 +13,7 @@
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,gsap" />
-</p>
-
 ---
-
-## 💡 What Drives Me
-
-I enjoy turning complex problems into intuitive user experiences.
-
-My focus is on building performant React applications, creating reusable component systems, and delivering interfaces that are both functional and visually engaging.
-
 
 ### 🎯 Current Focus
 
@@ -33,7 +21,6 @@ My focus is on building performant React applications, creating reusable compone
 - Frontend performance optimization
 - Reusable UI architecture
 - API-driven applications
-- Data Engineering & cloud technologies
 
 ---
 
@@ -85,7 +72,8 @@ My focus is on building performant React applications, creating reusable compone
 - Built reusable responsive UI components with real-time response tracking — reduced redundancy by **25%**
 - Optimized Webpack build pipeline — improved bundle efficiency by **20%**
 - Collaborated with cross-functional teams on end-to-end delivery, debugging, and code reviews
-  
+
+---
 
 ## 🚀 PROJECTS
 
@@ -111,22 +99,6 @@ My focus is on building performant React applications, creating reusable compone
 </p>
 
 ---
-
-## 🏆 HIGHLIGHTS
-
-- ⚛️ React.js Developer
-- 🎨 GSAP Animation Enthusiast
-- 🚀 Performance-Oriented Frontend Engineer
-- 📱 Responsive Design Specialist
-- 🔗 REST API Integration Experience
-
----
-
-## 🎓 EDUCATION
-
-### B.Tech Information Technology
-**Kongu Engineering College**
-2018 – 2022
 
 ## 🤝 Connect With Me
 
