@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zubair A</h1>
+<h1 align="center">Hi 👋, I'm ZUBAIR A</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Frontend+Developer;React.js+Developer;Building+Interactive+Web+Applications" />
@@ -14,28 +14,6 @@
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,vite,webpack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="mailto:zubair2kdeveloper@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/zubair-2k">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://zubair-2k.github.io/zubair-exe/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 💡 What Drives Me
@@ -43,6 +21,7 @@
 I enjoy turning complex problems into intuitive user experiences.
 
 My focus is on building performant React applications, creating reusable component systems, and delivering interfaces that are both functional and visually engaging.
+
 
 ### 🎯 Current Focus
 
@@ -54,7 +33,7 @@ My focus is on building performant React applications, creating reusable compone
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ TECH STACK
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,git,github,webpack,vscode,python" />
@@ -85,7 +64,7 @@ My focus is on building performant React applications, creating reusable compone
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-## ⚡ Core Strengths
+## ⚡ CORE STRENGTHS
 
 🖥️ Responsive UI Development  
 🔗 API Integration & Data Handling  
@@ -96,7 +75,7 @@ My focus is on building performant React applications, creating reusable compone
 
 ---
 
-## 💼 Professional Experience
+## 💼 PROFESSIONAL EXPERIENCE
 
 **Frontend Developer — Tringapps Private Ltd.** *(Dec 2021 – May 2023)*
 
@@ -107,7 +86,7 @@ My focus is on building performant React applications, creating reusable compone
   
 ---
 
-## 🚀 Projects
+## 🚀 PROJECTS
 
 | Project | Description | Live |
 |---------|-------------|------|
@@ -119,7 +98,7 @@ My focus is on building performant React applications, creating reusable compone
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GITHUB ANALYTICS
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zubair-2k&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -132,7 +111,7 @@ My focus is on building performant React applications, creating reusable compone
 
 ---
 
-## 🏆 Highlights
+## 🏆 HIGHLIGHTS
 
 - ⚛️ React.js Developer
 - 🎨 GSAP Animation Enthusiast
@@ -142,7 +121,7 @@ My focus is on building performant React applications, creating reusable compone
 
 ---
 
-## 🎓 Education
+## 🎓 EDUCATION
 
 ### B.Tech Information Technology
 **Kongu Engineering College**
