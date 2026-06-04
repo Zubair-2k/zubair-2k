@@ -137,6 +137,7 @@ My focus is on building performant React applications, creating reusable compone
 ---
 
 <p align="center">
+⚛️ React.js · JavaScript · GSAP · REST APIs · Webpack
 ⚡ Building fast, interactive, and scalable web applications with React.js
 </p>
 
@@ -144,9 +145,7 @@ My focus is on building performant React applications, creating reusable compone
   <img src="https://komarev.com/ghpvc/?username=zubair-2k&style=for-the-badge&color=blue" />
 </p>
 
-⚛️ React.js · JavaScript · GSAP · REST APIs · Webpack
 
-![Profile Views](https://komarev.com/ghpvc/?username=zubair-2k&color=58a6ff&style=flat-square)
 
 # Hi, I'm Zubair A 👋
 
