@@ -86,7 +86,6 @@ My focus is on building performant React applications, creating reusable compone
 - Optimized Webpack build pipeline — improved bundle efficiency by **20%**
 - Collaborated with cross-functional teams on end-to-end delivery, debugging, and code reviews
   
----
 
 ## 🚀 PROJECTS
 
@@ -129,8 +128,6 @@ My focus is on building performant React applications, creating reusable compone
 **Kongu Engineering College**
 2018 – 2022
 
----
-
 ## 🤝 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=About.me&logoColor=white)](https://zubair-2k.github.io/zubair-exe/)
@@ -146,6 +143,10 @@ My focus is on building performant React applications, creating reusable compone
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zubair-2k&style=for-the-badge&color=blue" />
 </p>
+
+⚛️ React.js · JavaScript · GSAP · REST APIs · Webpack
+
+![Profile Views](https://komarev.com/ghpvc/?username=zubair-2k&color=58a6ff&style=flat-square)
 
 # Hi, I'm Zubair A 👋
 
