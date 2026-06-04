@@ -4,8 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Frontend+Developer;React.js+Developer;GSAP+Animation+Enthusiast;Building+Interactive+Web+Applications;Performance+Focused+Developer" />
 </h3>
 
-> Frontend Developer skilled in React.js, JavaScript, GSAP, and responsive UI development.
-> Building interactive web applications with REST API integration and performance optimization.
+Frontend Developer skilled in React.js, JavaScript, GSAP, and responsive UI development.
+Building interactive web applications with REST API integration and performance optimization.
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-green?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 <p align="center">
   <a href="mailto:zubair2kdeveloper@gmail.com">
