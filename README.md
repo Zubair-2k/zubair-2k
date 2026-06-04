@@ -76,13 +76,9 @@
 - Render
 - VS Code
 
-### Additional Skills
-- Responsive Design
-- REST API Integration
-- Web Performance Optimization
-- UI Development
-- Debugging
-- Front-End Architecture
+## 📌 Additional Skills
+
+Responsive Design • REST API Integration • UI Development • Front-End Architecture • Web Performance Optimization • Debugging
 
 ---
 
