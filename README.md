@@ -28,19 +28,19 @@ Building interactive web applications with REST API integration and performance 
 
 ---
 
-## 👨‍💻 About Me
+## 💡 What Drives Me
 
-🚀 Frontend Developer specializing in React.js and modern JavaScript
+I enjoy turning complex problems into intuitive user experiences.
 
-⚡ Experienced in building responsive, high-performance web applications
+My focus is on building performant React applications, creating reusable component systems, and delivering interfaces that are both functional and visually engaging.
 
-🎨 Passionate about UI/UX, smooth animations, and clean component architecture
+### 🎯 Current Focus
 
-📈 Focused on web performance optimization and scalable frontend solutions
-
-🌱 Currently exploring Data Engineering and cloud technologies
-
-📍 Tamil Nadu, India
+- React.js & modern JavaScript
+- Frontend performance optimization
+- Reusable UI architecture
+- API-driven applications
+- Data Engineering & cloud technologies
 
 ---
 
@@ -58,14 +58,6 @@ Building interactive web applications with REST API integration and performance 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Redux
-- GSAP
 
 ### API & Data
 
@@ -81,6 +73,7 @@ Building interactive web applications with REST API integration and performance 
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 - Git
 - GitHub
