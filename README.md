@@ -8,10 +8,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-> Frontend Developer skilled in React.js, JavaScript, GSAP, and responsive UI development.
->
-> Building interactive web applications with REST API integration and performance optimization.
-
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge" />
 </p>
