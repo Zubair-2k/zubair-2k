@@ -22,6 +22,179 @@ Frontend Developer | React.js Developer | Building Fast & Interactive Web Experi
   </a>
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+🚀 Frontend Developer specializing in React.js and modern JavaScript
+
+⚡ Experienced in building responsive, high-performance web applications
+
+🎨 Passionate about UI/UX, smooth animations, and clean component architecture
+
+📈 Focused on web performance optimization and scalable frontend solutions
+
+🌱 Currently exploring Data Engineering and cloud technologies
+
+📍 Tamil Nadu, India
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,js,html,css,redux,git,github,webpack,vscode,python" />
+</p>
+
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Redux
+- GSAP
+
+### Tools
+- Git
+- GitHub
+- Webpack
+- Render
+- VS Code
+
+### Additional Skills
+- Responsive Design
+- REST API Integration
+- Web Performance Optimization
+- UI Development
+- Debugging
+- Front-End Architecture
+
+---
+
+## 💼 Professional Experience
+
+### Frontend Developer | Tringapps Private Ltd.
+**Dec 2021 – May 2023**
+
+- Developed a React.js-based recruitment platform with secure authentication and MCQ assessment system.
+- Built reusable and responsive UI components with real-time response tracking.
+- Reduced development redundancy by **25%** through component reusability.
+- Optimized frontend architecture and Webpack configuration.
+- Improved bundle efficiency by **20%**.
+- Collaborated with cross-functional teams to deliver end-to-end features.
+- Maintained code quality through debugging and structured code reviews.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌟 Interactive Portfolio Website
+🔗 https://zubair-2k.github.io/zubair-exe/
+
+- Built using React.js and GSAP
+- Smooth scroll-based animations
+- Optimized assets to approximately 1 MB
+- Fast loading and responsive design
+
+---
+
+### 🕷 Spider-Man Parallax Website
+🔗 https://zubair-2k.github.io/Spiderman_Game/
+
+- Built immersive parallax scrolling effects
+- GSAP-powered animations
+- Layered storytelling experience
+- Optimized performance across devices
+
+---
+
+### 🎬 Crimson Scroll Animation Website
+🔗 https://zubair-2k.github.io/GSAP_Crimson/
+
+- Built with GSAP ScrollTrigger
+- Scroll-synchronized animations
+- Performance-optimized rendering
+- Interactive user experience
+
+---
+
+### 🍲 Cooking Recipe App
+🔗 https://zubair-2k.github.io/Cooking-App/
+
+- React.js application using REST APIs
+- Handles 4,000+ recipe records
+- Dynamic routing implementation
+- Cloud-hosted backend integration
+- Deployed using Render and GitHub Pages
+
+---
+
+### 💼 Personal Portfolio (Version 1)
+🔗 https://zubair-2k.github.io/Portfolio/
+
+- Initial personal portfolio website
+- Foundation for future UI/UX improvements
+- Iterative performance enhancements
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zubair-2k&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubair-2k&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zubair-2k&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Highlights
+
+- ⚛️ React.js Developer
+- 🎨 GSAP Animation Enthusiast
+- 🚀 Performance-Oriented Frontend Engineer
+- 📱 Responsive Design Specialist
+- 🔗 REST API Integration Experience
+
+---
+
+## 🎓 Education
+
+### B.Tech Information Technology
+**Kongu Engineering College**
+2018 – 2022
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:zubair2kdeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/zubair-2k">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://zubair-2k.github.io/zubair-exe/">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+⚡ Building fast, interactive, and scalable web applications with React.js
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zubair-2k&style=for-the-badge&color=blue" />
+</p>
+
 # Hi, I'm Zubair A 👋
 
 ### Frontend Developer · React.js
