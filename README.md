@@ -109,7 +109,6 @@
 ---
 
 <p align="center">
-⚛️ React.js · JavaScript · GSAP · REST APIs · Webpack
 ⚡ Building fast, interactive, and scalable web applications with React.js
 </p>
 
