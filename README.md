@@ -81,6 +81,15 @@ Building interactive web applications with REST API integration and performance 
 - Render
 - VS Code
 
+## ⚡ Core Strengths
+
+🖥️ Responsive UI Development  
+🔗 API Integration & Data Handling  
+⚡ Performance Optimization  
+🧩 Component-Based Architecture  
+🎨 Interactive Animations & User Experience  
+🐞 Debugging & Problem Solving
+
 ### 📌 Additional Skills
 
 Responsive Design • REST API Integration • UI Development • Front-End Architecture • Web Performance Optimization • Debugging
