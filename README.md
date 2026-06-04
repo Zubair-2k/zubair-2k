@@ -88,6 +88,13 @@
 
 ## 📊 GITHUB ANALYTICS
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zubair-2k&theme=tokyonight" width="740"/><br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zubair-2k&theme=tokyonight" width="360"/>&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zubair-2k&theme=tokyonight" width="360"/><br/><br/>
+  <img src="https://streak-stats.demolab.com?user=zubair-2k&theme=tokyonight&hide_border=true" width="600"/>
+</div>
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zubair-2k&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubair-2k&layout=compact&theme=tokyonight&hide_border=true"/>
