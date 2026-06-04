@@ -1,3 +1,27 @@
+<h1 align="center">Hi 👋, I'm Zubair A</h1>
+
+<h3 align="center">
+Frontend Developer | React.js Developer | Building Fast & Interactive Web Experiences
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Frontend+Developer;React.js+Developer;GSAP+Animation+Enthusiast;Building+Interactive+Web+Applications;Performance+Focused+Developer" />
+</p>
+
+<p align="center">
+  <a href="mailto:zubair2kdeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/zubair-2k">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://zubair-2k.github.io/zubair-exe/">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
 # Hi, I'm Zubair A 👋
 
 ### Frontend Developer · React.js
